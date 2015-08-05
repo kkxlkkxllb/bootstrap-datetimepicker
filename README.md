@@ -7,6 +7,8 @@
 
 # v4.15.35
 
+with zh-cn default locale
+
 Is the current stable release. The latest and greatest changes are available from the [development branch](https://github.com/Eonasdan/bootstrap-datetimepicker/tree/development)
 
 # Version 5

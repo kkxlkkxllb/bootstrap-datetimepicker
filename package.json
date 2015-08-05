@@ -22,7 +22,7 @@
         "load-grunt-tasks": "latest",
         "grunt-nuget": "^0.1.4"
     },
-    "homepage": "http://eonasdan.github.io/bootstrap-datetimepicker/",
+    "homepage": "https://github.com/kkxlkkxllb/bootstrap-datetimepicker",
     "keywords": [
         "twitter-bootstrap",
         "bootstrap",
@@ -33,10 +33,10 @@
     ],
     "license": "MIT",
     "main": "src/js/bootstrap-datetimepicker.js",
-    "name": "eonasdan-bootstrap-datetimepicker",
+    "name": "cn-bootstrap-datetimepicker",
     "repository": {
         "type": "git",
-        "url": "https://github.com/eonasdan/bootstrap-datetimepicker.git"
+        "url": "https://github.com/kkxlkkxllb/bootstrap-datetimepicker.git"
     },
     "version": "4.15.35"
 }
